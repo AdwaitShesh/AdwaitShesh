@@ -9,7 +9,7 @@ I'm Adwait Shesh, a Computer Engineering student passionate about Machine Learni
 - 🔭 I’m currently working on **PactBot** – an AI-powered legal contract analyzer using Google Gemini & MongoDB.
 - 🌱 I’m currently learning **Smart Contracts** (Solidity + Hardhat) and **LLMs** integration.
 - 👯 I’m looking to collaborate on **ML-based tools**, **DApps**, or anything with **React + Python + Blockchain**.
-- 🤔 I’m looking for help with optimizing **Web3 backend performance** and **production-grade ML deployments**.
+- 🤔 I’m looking for help with optimizing **backend performance** and **production-grade ML deployments**.
 - 💬 Ask me about `Python`, `Django`, `React`, `Solidity`, or `Firebase`.
 - 📫 How to reach me: [GitHub Profile](https://github.com/AdwaitShesh)
 - 😄 Pronouns: He/Him
